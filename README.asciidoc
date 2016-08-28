@@ -9,6 +9,7 @@ information please see the link:https://discuss.gradle.org/t/gradle-fails-on-jdk
 a Gradle version >= 2.0. The branch `gradle-2.x` provides a runnable example using Gradle 2.11.
 
 
+
 == Applied Gradle features
 
 * Usage of the Gradle Wrapper.
